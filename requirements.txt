@@ -1,4 +1,5 @@
-ipython==8.12.0
 ipywidgets==8.0.6
 pandas==2.0.1
-surprise==0.1
+sentence-transformers==2.2.2
+scikit-learn==1.2.2
+scikit-surprise==1.1.3
