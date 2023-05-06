@@ -2,7 +2,7 @@
 This project aims to build a movie recommendation system using content-based filtering and collaborative filtering techniques. The script uses the Sentence Transformers library for content-based filtering and the Surprise library for collaborative filtering.
 
 ## Dependencies
-To run this script, insall the dependencies using following command:
+To run this script, install the dependencies using following command:
 ```bash
 pip install -r requirements.txt
 ```
