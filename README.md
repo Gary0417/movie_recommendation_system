@@ -19,3 +19,10 @@ The script first cleans and preprocesses the movie metadata, keywords, and ratin
 For collaborative filtering, the script uses the Surprise library to build a matrix factorization-based model. It trains the model using the ratings data and predicts ratings for a given user and movie.
 
 The script also includes a hybrid recommender system that combines the content-based and collaborative filtering recommendations. It provides movie recommendations based on both the similarity of the selected movie and the predicted user ratings.
+
+## Hugging Face Spaces
+
+The trained movie recommendation model is hosted on Hugging Face Spaces. You can access the model and interact with it using the following link:
+[Movie Recommendation Model on Hugging Face Spaces](https://huggingface.co/spaces/Gary0417/movie-recommendation-system)
+
+![Movie Recommendation System](images/movie-recommendation-system.png)
